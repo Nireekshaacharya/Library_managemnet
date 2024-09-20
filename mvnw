@@ -1,5 +1,4 @@
 #!/bin/sh
-export JAVA_HOME=/opt/render/project/src/.jdk
 # ----------------------------------------------------------------------------
 # Licensed to the Apache Software Foundation (ASF) under one
 # or more contributor license agreements.  See the NOTICE file
